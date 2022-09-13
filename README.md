@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mürsel</h1>
-<h3 align="center">A Junior Android Developer from Turkey</h3>
+<h3 align="center">A Junior Android Developer from Eskişehir,Turkey</h3>
 
 - 📫 How to reach me **murselcetin51@gmail.com**
 
